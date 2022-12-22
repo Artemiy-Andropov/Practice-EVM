@@ -77,22 +77,22 @@ void MakeTrain()
 
 int main()
 {
-/*
+
 	std::vector<int> v = { 1, 2, 3 };
-	char c = '||';
+	std::string c = "||";
 
 	PrintWithDel(v, c);
 
 	std::list<char> l = {'p', 'i', 'p', 'l'};
-	c = '-';
+	c = "-";
 
 	PrintWithDel(l, c);
 
 	std::string s = "Hello? My friend!";
-	c = ' ';
+	c = " ";
 
 	PrintWithDel(s, c);
-*/
+
 
 	MakeTrain();
 
